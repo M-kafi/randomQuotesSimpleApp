@@ -60,7 +60,7 @@ $quoteText = $quotes[$quote]['text'];
 
 ?>
 
-// simple html
+// simple html   
 <!DOCTYPE html>
 <html>
 <head>
